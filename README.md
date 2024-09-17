@@ -8,4 +8,4 @@ the use of disabled. The paper presents a novel idea to control computer mouse c
 movement with human eyes It controls mouse-moving by automatically affecting the 
 position where eyesight focuses on, and simulates mouse-click by affecting blinking 
 action. However, the proposed vision-based virtual interface controls system work on 
-various eye movements such as eye blinking
+various eye movements such as eye blinking.
